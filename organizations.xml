@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organizations>
+    <organizationList>
+        <creationDate>2020-01-01</creationDate>
+        <employees>
+            <dateOfBirth>1990-01-01</dateOfBirth>
+            <fullName>John Doe</fullName>
+        </employees>
+        <employees>
+            <dateOfBirth>1991-02-03</dateOfBirth>
+            <fullName>Jane Smith</fullName>
+        </employees>
+        <name>Sample Organization</name>
+        <status>Open</status>
+    </organizationList>
+    <organizationList>
+        <creationDate>2022-02-02</creationDate>
+        <employees>
+            <dateOfBirth>1990-01-01</dateOfBirth>
+            <fullName>John Doe</fullName>
+        </employees>
+        <employees>
+            <dateOfBirth>1991-02-03</dateOfBirth>
+            <fullName>Jane Smith</fullName>
+        </employees>
+        <name>New Organization</name>
+        <status>Open</status>
+    </organizationList>
+    <organizationList>
+        <creationDate>2023-03-03</creationDate>
+        <employees>
+            <dateOfBirth>1990-01-01</dateOfBirth>
+            <fullName>John Doe</fullName>
+        </employees>
+        <employees>
+            <dateOfBirth>1991-02-03</dateOfBirth>
+            <fullName>Jane Smith</fullName>
+        </employees>
+        <name>Old Organization</name>
+        <status>Close</status>
+    </organizationList>
+</organizations>
